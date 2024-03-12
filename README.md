@@ -22,14 +22,19 @@
 
 ## Resumo do Projeto
 
+<p>
+O Projeto Euler é uma iniciativa de extensão da UFERSA que visa incentivar os estudantes a aprimorarem suas habilidades em matemática e programação. Nossa equipe está trabalhando para resolver uma série de desafios computacionais do Projeto Euler. As soluções e metodologias serão então usadas como material de ensino para introduzir os alunos do ensino médio à programação.
+</p>
 
 ## Objetivo do Projeto
 
+<p>
+O objetivo deste projeto é não apenas resolver os desafios do Projeto Euler, mas também usar essas soluções para desenvolver um currículo de programação para alunos do ensino médio. Queremos mostrar aos alunos como a matemática e a programação podem ser usadas para resolver problemas complexos. Acreditamos que ao fazer isso, podemos inspirar a próxima geração de programadores e matemáticos.
+</p>
 
 ## Linguagem de Programação
 
 ## Membros
-
 
 ## Organização
 
