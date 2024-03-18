@@ -34,8 +34,39 @@ O objetivo deste projeto é não apenas resolver os desafios do Projeto Euler, m
 
 ## Linguagem de Programação
 
+<p align="center">
+  A linguagem de programação adotada para este projeto é a C. Isso significa que todos os códigos e soluções desenvolvidos como parte deste projeto serão escritos em C.
+</p>
+
+<p align="center">
+  <img alt="c" width="100" src="https://icongr.am/devicon/c-original.svg?size=148&color=currentColor">  
+</p>
+
+
 ## Membros
+<p align="center">
+  Estes são os nossos mebros que compõe a equipe do Projeto Euler!
+</p>
+<table>
+  <tbody>
+    <div>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Allan-Gabriell"><img src="https://avatars.githubusercontent.com/u/123174616?v=4" width="100px;" alt="Allan"/><br /><sub><b>Allan</b></sub></a><br /><a href="https://github.com/Allan-Gabriell" title="Code">💻☕</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/LeticiaVieirg"><img src="https://avatars.githubusercontent.com/u/90807534?v=4" width="100px;" alt="Leticia"/><br /><sub><b>Leticia</b></sub></a><br /><a href="https://github.com/LeticiaVieirg" title="Code">💻💬</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/DanielNeres"><img src="https://avatars.githubusercontent.com/u/146374053?v=4" width="100px;" alt="Leticia"/><br /><sub><b>Daniel</b></sub></a><br /><a href="https://github.com/DanielNeres" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/KayqueLopes99"><img src="https://avatars.githubusercontent.com/u/144949202?v=4" width="100px;" alt="Leticia"/><br /><sub><b>Kayque</b></sub></a><br /><a href="https://github.com/KayqueLopes99" title="Code">💻📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/LeonardAugusto"><img src="https://avatars.githubusercontent.com/u/147530849?v=4" width="100px;" alt="Leticia"/><br /><sub><b>Leonardo</b></sub></a><br /><a href="https://github.com/LeonardAugusto" title="Code">💻🔧</a></td>
+    </div>
+  </tbody>
+</table>
 
 ## Organização
 
 ## Suporte
+
+<h2 align="center">
+  Precisando de suporte com o nosso material? Entre em contato conosco!
+</h2>
+
+<div align="center">
+    <a href = "mailto:projeto.euler.ufersa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank" width="150"></a>
+</div>
